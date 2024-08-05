@@ -1,0 +1,3 @@
+From: Muhammad Ali
+Subject: Welcome to ConsoleOS
+Body: This is an implementation of text file handling. 
