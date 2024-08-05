@@ -8,6 +8,7 @@ Notes:
 **************************************************************
 1.	Header file "mmysystem.h" is used in the project, which requires a separate download to work.
 	If you have Windows 11, then it should not be an issue as it is pre included.
+2. 	The password is "helloworld" on the login screen
 
 **************************************************************
 Project Report is also included. Please check it out.
