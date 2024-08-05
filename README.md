@@ -1,8 +1,11 @@
 # ConsoleOS
 Console based operating system simulator using OOP concepts. 
 
+---------------------------------------------------------------------------------------
 			Written, created and uploaded by: schizoalloy
 				    on GitHub
+---------------------------------------------------------------------------------------
+
 
 Notes:
 **************************************************************
